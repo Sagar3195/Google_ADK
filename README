@@ -1,26 +1,31 @@
 #  🚀 ADKAgent Quick Start
 
 1. **Create environment:**  
+
 ```bash
 conda create -n adkagent python=3.11 -y
 ```
 
 2. Activate environment:
+
 ```bash
 conda activate adkagent
 ```
 
 3. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Run a script:
+
 ```bash
 python agent.py
 ```
 
 5. Deactivate environment when done:
+
 ```bash
 conda deactivate
 ```
