@@ -1,6 +1,6 @@
-#  🚀 ADKAgent Quick Start
+##🚀 ADKAgent Quick Start
 
-1. **Create environment:**  
+1. Create environment:
 
 ```bash
 conda create -n adkagent python=3.11 -y
